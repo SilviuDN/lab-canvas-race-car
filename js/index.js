@@ -6,6 +6,6 @@ window.onload = (e) => {
   };
 
   function startGame() {
-    backGround.init()
+    Game.init()
   }
 };
